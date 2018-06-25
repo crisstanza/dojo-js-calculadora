@@ -1,0 +1,15 @@
+.quadrado {
+	width: 400px;
+	height: 400px;
+	background-color: gray;
+	padding: 10px;
+}
+.quadradoSmall {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	padding: 20px;
+}
+.invisible {
+	visibility: hidden; 
+}
